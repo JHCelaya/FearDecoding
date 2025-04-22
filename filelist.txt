@@ -1,0 +1,9 @@
+# CRCNS.org 'mc-1' dataset files
+# To use this for fetching files, comment out files that are
+# not needed by putting a '#' as the first character on the line (default mode)
+# or put a '+' as the first character to specifiy files to be fetched (+ mode).
+# mode='default' (change to '+' for + mode).
+ data.tar.gz	5520986865 (5.1 GB)
+ docs/crcns_mc-1_data_description.docx	14754 (14.4 KB)
+ docs/crcns_mc-1_data_description.pdf	118344 (115.5 KB)
+ checksums.md5	236
